@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\bin\Debug\for-dongusu-toplam.exe.config
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\bin\Debug\for-dongusu-toplam.exe
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\bin\Debug\for-dongusu-toplam.pdb
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for_dongusu_toplam.Form1.resources
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for_dongusu_toplam.Properties.Resources.resources
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.csproj.GenerateResource.cache
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.exe
+C:\Users\User\source\repos\for-dongusu-toplam\for-dongusu-toplam\obj\Debug\for-dongusu-toplam.pdb
